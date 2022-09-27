@@ -1,0 +1,5 @@
+idmtools
+idmtools-models
+idmtools-cli
+idmtools-platform-comps
+emodpy-malaria
